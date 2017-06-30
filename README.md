@@ -24,7 +24,7 @@ Both files should be extracted and made available at the same location, otherwis
 
 Pay attention on the directory separators when writing the files' paths for Python 2 or Python 3. See the example below :
 
-```
+```python
 if int(PyVersion[0])==2:
     folds_path='Age-Gender-Classifier/Folds/train_val_txt_files_per_fold' 
     print("Jean-Claude, I got in python 2")
@@ -43,4 +43,13 @@ cd Age-Gender-Classifier/
 
 And then simply execute the IPython Notebooks in your preferred environment.
 
+---
+For more details, you should also find the proposal and the report PDF files on this repository.
 
+
+---
+```
+> “Intellectuals solve problems, geniuses prevent them.”.
+> “The difference between stupidity and genius is that genius has its limits.”.
+```
+[Albert-Einstein](http://www.movemequotes.com/top-21-albert-einstein-quotes/)

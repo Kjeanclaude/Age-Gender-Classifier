@@ -46,7 +46,14 @@ And then simply execute the IPython Notebooks in your preferred environment.
 ---
 For more details, you should also find the proposal and the report PDF files on this repository.
 
+---
+### Roadmap
+    - Write an example of age prediction ranges function.
+    - Increase the Unified Dataset and make it available in a compressed file, with usage script.
+    - Provide a mobile app demo of the age and gender classifier.
+    - Etc.
 
+---
 ---
 ```
 > “Intellectuals solve problems, geniuses prevent them.”.

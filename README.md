@@ -15,7 +15,7 @@ pip install tflearn
 
 -	[Tensorflow](https://www.tensorflow.org/install/)
 
-### Files and dataset
+### Files and datasets
 First, you should download the [Adience Dataset](http://www.openu.ac.il/home/hassner/Adience/data.html) (**faces.tar.gz (1.2Gb)** or **aligned.tar.gz (2.6Gb)** compressed files). 
 
 You should also clone the [AgeGenderDeepLearning](https://github.com/GilLevi/AgeGenderDeepLearning) repository. Only the ***Folds*** repository will be necessary for the process; it contains the ***.txt files***, labels of the Adience Benchmark in separated age and gender files {***age_test.txt, age_train.txt, age_train_subset.txt, age_val.txt, gender_test.txt, gender_train.txt, gender_train_subset.txt, gender_val.txt***}.
@@ -42,6 +42,13 @@ cd Age-Gender-Classifier/
 ```
 
 And then simply execute the IPython Notebooks in your preferred environment.
+
+```ipython
+cd Age-Gender-Classifier/
+jupyter notebook AgeGenderPrediction-OneHotModel.ipynb
+# and/or
+jupyter notebook AgeGenderPrediction-TuplesModel.ipynb
+```
 
 ---
 For more details, you should also find the proposal and the report PDF files on this repository.

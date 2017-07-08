@@ -55,15 +55,19 @@ For more details, you should also find the proposal and the report PDF files on 
 
 ---
 ### Roadmap
-    - Write an example of age prediction ranges function.
-    - Increase the Unified Dataset and make it available in a compressed file, with usage script.
-    - Provide a mobile app demo of the age and gender classifier.
-    - Etc.
+
+| Tasks | Date | Update |
+| --- | --- | --- |
+| Report | 30/06/2017 | 05/07/2017 |
+| Write an example of prediction label interpretation function | 05/07/2017 | ... |
+| Write an example of age prediction ranges function | ... | ... |
+| Increase the Unified Dataset and make it available in a compressed file, with usage script | ... | ... |
+| Provide a mobile app demo of the age and gender classifier | ... | ... |
 
 ---
 ---
 ```
-> “Intellectuals solve problems, geniuses prevent them.”.
-> “The difference between stupidity and genius is that genius has its limits.”.
+==> "Intellectuals solve problems, geniuses prevent them."
+==> "The difference between stupidity and genius is that genius has its limits."
 ```
 [Albert-Einstein](http://www.movemequotes.com/top-21-albert-einstein-quotes/)

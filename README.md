@@ -5,6 +5,7 @@ I used this personal project as my **capstone project** for the Udacity's [Machi
 You could find the observations of my reviewer [HERE](https://review.udacity.com/#!/reviews/590363/shared).
 
 
+
 ## Prerequisite
 
 ### Packages
@@ -71,6 +72,6 @@ For more details, you should also find the proposal and the report PDF files on 
 ---
 ```
 ==> "Intellectuals solve problems, geniuses prevent them."
-==> "The difference between stupidity and genius is that genius has its limits."
+==> "The difference between stupidity and genius is that genius has its limits." 
 ```
-[Albert-Einstein](http://www.movemequotes.com/top-21-albert-einstein-quotes/)
+[Albert-Einstein](http://www.movemequotes.com/top-21-albert-einstein-quotes/) :angel:

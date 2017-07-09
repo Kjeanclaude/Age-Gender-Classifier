@@ -1,6 +1,9 @@
 # Age-Gender-Classifier
 An Age and Gender Classifier with a Fully-Connected artificial Neural Network
 
+I used this personal project as my **capstone project** for the Udacity's [Machine Learning Engineer Nanodegree Program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009). It is the equivalent of a Master of Engineering thesis. 
+You could find the observations of my reviewer [HERE](https://review.udacity.com/#!/reviews/590363/shared).
+
 
 ## Prerequisite
 

@@ -2,7 +2,7 @@
 An Age and Gender Classifier with a Fully-Connected artificial Neural Network
 
 I used this personal project as my **capstone project** for the Udacity's [Machine Learning Engineer Nanodegree Program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009). It is the equivalent of a Master of Engineering thesis. 
-You could find the observations of my reviewer [HERE](https://review.udacity.com/#!/reviews/590363/shared).
+You could find the observations of my reviewer [HERE](https://github.com/Kjeanclaude/Age-Gender-Classifier/blob/master/Observations_of_my_reviewer.pdf).
 
 - ***Full implementation code in python available here, open to research and further improvements.***
 

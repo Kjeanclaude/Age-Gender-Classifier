@@ -50,9 +50,9 @@ And then simply execute the IPython Notebooks in your preferred environment.
 
 ```ipython
 cd Age-Gender-Classifier/
-jupyter notebook AgeGenderPrediction-OneHotModel.ipynb
+jupyter notebook AgeGenderPrediction-OneHotModel-Py2-3.ipynb
 # and/or
-jupyter notebook AgeGenderPrediction-TuplesModel.ipynb
+jupyter notebook AgeGenderPrediction-TuplesModel-Py2-3.ipynb
 ```
 
 ---

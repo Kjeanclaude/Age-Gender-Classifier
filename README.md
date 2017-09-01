@@ -65,8 +65,8 @@ For more details, you should also find the proposal and the report PDF files on 
 | --- | --- | --- |
 | Report | 30/06/2017 | 05/07/2017 |
 | Write an example of prediction label interpretation function | 05/07/2017 | ... |
-| Write an example of age prediction ranges function | ... | ... |
-| Increase the Unified Dataset and make it available in a compressed file, with usage script | ... | ... |
+| Write an example of age prediction ranges function | 24/07/2017 | ... |
+| Increase the Unified Dataset and make it available in a compressed file, with usage script | 01/09/2017 | ... |
 | Provide a mobile app demo of the age and gender classifier | ... | ... |
 
 ---

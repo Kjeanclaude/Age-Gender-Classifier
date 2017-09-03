@@ -21,7 +21,7 @@ pip install tflearn
 -	[Tensorflow](https://www.tensorflow.org/install/)
 
 ### Files and datasets
-First, you should download the [Adience Dataset](http://www.openu.ac.il/home/hassner/Adience/data.html) (**faces.tar.gz (1.2Gb)** or **aligned.tar.gz (2.6Gb)** compressed files). 
+**I.** First, you should download the [Adience Dataset](http://www.openu.ac.il/home/hassner/Adience/data.html) (**faces.tar.gz (1.2Gb)** or **aligned.tar.gz (2.6Gb)** compressed files). 
 
 You should also clone the [AgeGenderDeepLearning](https://github.com/GilLevi/AgeGenderDeepLearning) repository. Only the ***Folds*** repository will be necessary for the process; it contains the ***.txt files***, labels of the Adience Benchmark in separated age and gender files {***age_test.txt, age_train.txt, age_train_subset.txt, age_val.txt, gender_test.txt, gender_train.txt, gender_train_subset.txt, gender_val.txt***}.
 
@@ -38,7 +38,7 @@ else:
     print("Jean-Claude, I got in python 3")
 ```
 
-You could also instead clone this repository where the ***Folds*** directory is already available with Ipython Notebook files.
+**II.** You could also instead clone this repository where the ***Folds*** directory is already available with Ipython Notebook files.
 
 ```
 git clone https://github.com/Kjeanclaude/Age-Gender-Classifier.git
@@ -46,7 +46,7 @@ cd Age-Gender-Classifier/
 # And also Extract the /face and/or /aligned datasets here.
 ```
 
-And then simply execute the IPython Notebooks in your preferred environment.
+And then simply execute the IPython Notebooks in your preferred environment (Anaconda, Virtual environment, etc.).
 
 ```ipython
 cd Age-Gender-Classifier/
@@ -55,7 +55,24 @@ jupyter notebook AgeGenderPrediction-OneHotModel-Py2-3.ipynb
 jupyter notebook AgeGenderPrediction-TuplesModel-Py2-3.ipynb
 ```
 
+**III.** Now you can work with the ***age_gender_unified_dataset.pickle*** file already separated in ***age_gender_dataset (features)*** <br/>and ***age_gender_labels (2-hot labels)*** . 
+<br/>It contains unique images which have both gender and age information in the Adience Dataset.
+<br/>You can download the ***age_gender_unified_dataset.pickle*** file [HERE](http://www.ongoing.com), in the same location as the pickle notebook files (***AgeGenderPrediction-OneHotModel-Py23-PickleFile.ipynb*** or ***AgeGenderPrediction-TuplesModel-Py23-PickleFile.ipynb***).
+<br/>Or create your own pickle file from the previous notebooks (***AgeGenderPrediction-OneHotModel-Py2-3.ipynb***), using the code provided in ***I.4- Training and Test sets creation***.
+<br/>==> And then simply execute the IPython pickle Notebooks in your preferred environment (Anaconda, Virtual environment, etc.).
+```ipython
+cd Age-Gender-Classifier/
+jupyter notebook AgeGenderPrediction-OneHotModel-Py23-PickleFile.ipynb
+# and/or
+jupyter notebook AgeGenderPrediction-TuplesModel-Py23-PickleFile.ipynb
+```
+
+
+<br/>The Methods **I**, **II** and **III** have to be done alternatively (not cumulable), please choose your preferred method.
+
 ---
+<br/>
+
 For more details, you should also find the proposal and the report PDF files on this repository.
 
 ---
@@ -66,7 +83,7 @@ For more details, you should also find the proposal and the report PDF files on 
 | Report | 30/06/2017 | 05/07/2017 |
 | Write an example of prediction label interpretation function | 05/07/2017 | ... |
 | Write an example of age prediction ranges function | 24/07/2017 | ... |
-| Increase the Unified Dataset and make it available in a compressed file, with usage script | 01/09/2017 | ... |
+| Increase the Unified Dataset and make it available in a compressed file, with usage script | 01/09/2017 | 03/09/2017 |
 | Provide a mobile app demo of the age and gender classifier | ... | ... |
 
 ---

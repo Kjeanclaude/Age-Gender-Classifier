@@ -57,7 +57,7 @@ jupyter notebook AgeGenderPrediction-TuplesModel-Py2-3.ipynb
 
 **III.** Now you can work with the ***age_gender_unified_dataset.pickle*** file already separated in ***age_gender_dataset (features)*** <br/>and ***age_gender_labels (2-hot labels)*** . 
 <br/>It contains unique images which have both gender and age information in the Adience Dataset.
-<br/>You can download the ***age_gender_unified_dataset.pickle*** file [HERE](http://www.ongoing.com), in the same location as the pickle notebook files (***AgeGenderPrediction-OneHotModel-Py23-PickleFile.ipynb*** or ***AgeGenderPrediction-TuplesModel-Py23-PickleFile.ipynb***).
+<br/>You can download the ***age_gender_unified_dataset.pickle*** file [HERE](https://drive.google.com/open?id=0B5GQQIZDsDCcaXl1dGVpZmtSSHM), in the same location as the pickle notebook files (***AgeGenderPrediction-OneHotModel-Py23-PickleFile.ipynb*** or ***AgeGenderPrediction-TuplesModel-Py23-PickleFile.ipynb***).
 <br/>Or create your own pickle file from the previous notebooks (***AgeGenderPrediction-OneHotModel-Py2-3.ipynb***), using the code provided in ***I.4- Training and Test sets creation***.
 <br/>==> And then simply execute the IPython pickle Notebooks in your preferred environment (Anaconda, Virtual environment, etc.).
 ```ipython

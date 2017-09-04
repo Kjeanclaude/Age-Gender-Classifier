@@ -66,6 +66,8 @@ jupyter notebook AgeGenderPrediction-OneHotModel-Py23-PickleFile.ipynb
 # and/or
 jupyter notebook AgeGenderPrediction-TuplesModel-Py23-PickleFile.ipynb
 ```
+<br/>Because of the ***checksum*** the images should not have the same order if you choose built your own pickle file from the code I provided above. To verify that you have the original ***age_gender_unified_dataset.pickle*** file I built, you should have the following images for the first image of the unified dataset, and for the second image of the training set.
+<br/>![alt tag](https://github.com/Kjeanclaude/Age-Gender-Classifier/blob/master/Sample_From_The_Unified_Dataset_Pickle.png)
 
 
 <br/>The Methods **I**, **II** and **III** have to be done alternatively (not cumulable), please choose your preferred method.

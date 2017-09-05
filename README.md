@@ -92,7 +92,8 @@ For more details, you should also find the proposal and the report PDF files on 
 ## Citations
 
 Please, cite me in your publications if it helps your research.
-The following is a [BibTeX](http://www.bibtex.org/) and plaintext reference for my
+<br/>I appreciate, but do not require, attribution.
+<br/>The following is a [BibTeX](http://www.bibtex.org/) and plaintext reference for my
 [Age-Gender-Classifier](https://github.com/Kjeanclaude/Age-Gender-Classifier/blob/master/report.pdf).
 
 ```
